@@ -16,7 +16,7 @@ function numeroAleatorio() {
         listaDeNumerosSorteados.push(numeroEscolhido);
         console.log(listaDeNumerosSorteados)
         return numeroEscolhido;
-    }
+    };
 };
 console.log(numeroSecreto);
 let chutes = 1;
