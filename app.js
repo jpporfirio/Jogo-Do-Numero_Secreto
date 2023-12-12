@@ -52,10 +52,10 @@ function verificarChute() {
         }      
 };
 
-//function limparCampo() {
-//    chute = document.querySelector('input');
-//    chute.value = '';
-//};
+function limparCampo() {
+    chute = document.querySelector('input');
+    chute.value = '';
+};
 
 function reiniciarJogo() {
     numeroSecreto = numeroAleatorio();
