@@ -28,7 +28,7 @@ function exibirTexto(tag, texto) {
 };
 
 function textoInicial() {
-    exibirTexto('h1', 'JOGO DO NÚMERO SECRETO!!!');
+    exibirTexto('h1', 'JOGO DO NÚMERO SECRETO!');
     exibirTexto('p', `ESCOLHA UM NÚMERO DE 1 À ${numeroLimiteDeSorteios}`);
 }
 
