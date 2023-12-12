@@ -64,3 +64,4 @@ function reiniciarJogo() {
     textoInicial();
     document.getElementById('reiniciar').setAttribute('disabled',true)
 };
+//fim do projeto
